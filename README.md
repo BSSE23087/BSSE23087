@@ -1,4 +1,4 @@
-![muhammad](https://github.com/BSSE23087/BSSE23087/assets/96386140/22268a8d-036e-4883-b2c7-1d6c84b8b748)
+![muhammad](https://github.com/BSSE23087/BSSE23087/assets/96386140/b5231186-040c-404d-bdd2-c8c91b4d4c9c)
 
 
 
