@@ -6,9 +6,11 @@
 I am Muhammad Abdullah, A python programmer and a full stack developer always seeking to help others and learn more and more. 
 
 *My ultimate goal is to*
->Learn till death 
+Learn till death 
+    
      &
->Help others till death
+     
+Help others till death
 My favourite quote is 
 >The service to others is the rent you pay to the room you have here on the earth.(Muhammad Ali)
 
