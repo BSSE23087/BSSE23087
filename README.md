@@ -25,7 +25,7 @@ My favourite quote is
 -👯 I’m looking to collaborate on any open source project related to Django.
 
 
--💬 Ask me about Python django and selenium as it will boost my knowlede and viceversa.
+-💬 Ask me about Python django and selenium as it will boost my knowledge and viceversa.
 
 
 -📫 How to reach me: My github is here feel free to contact me here or any of social media platforms on my profile.
