@@ -13,9 +13,11 @@ Side Projects - App <img width=200/> | [![TickCross Online Badge](https://img.sh
 Side Projects - Web      | [![buoygo Badge](https://img.shields.io/badge/-Bouygo-red?style=flat&logoColor=white)](https://github.com/bsse23087/) [![Axis Cult Badge](https://img.shields.io/badge/-Axis%20Cult-00eeff?style=flat&logoColor=white)](https://github.com/bsse23087/) [![Norn Minehunter Badge](https://img.shields.io/badge/-Norn%20Minehunter-gold?style=flat&logoColor=white)](https://github.com/bsse23087/) [![TW Stock Lottery Secretary Badge](https://img.shields.io/badge/-TW%20Stock%20Lottery%20Secretary-3b5998?style=flat&logoColor=white)](https://www.facebook.com/%E8%82%A1%E7%A5%A8%E6%8A%BD%E7%B1%A4%E5%B0%8F%E7%A7%98%E6%9B%B8-115560563215006/) [![Protobuf Deserializer Badge](https://img.shields.io/badge/-Protobuf%20Deserializer-red?style=flat&logoColor=white)](https://protobuf-deserializer.zmcx16.moe/)
 
 ## ⚙️ &nbsp;GitHub Analytics
-
+ 
 <p align="center">
+  <a href="https://github.com/bsse23087">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bsse23087&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&fire=FF8623"/>
+  </a>
 </p>
 <p align="center">
 <a href="https://github.com/bsse23087">
