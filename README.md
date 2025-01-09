@@ -1,6 +1,6 @@
 ![muhammad](https://github.com/BSSE23087/BSSE23087/assets/96386140/b5231186-040c-404d-bdd2-c8c91b4d4c9c)
 
-<p>I'm a student who is enthusiastic about making the world more developed, making innovations to raise individuals, and building a community of creative people. A few languages I enjoy working with include Python (Django, Tensorflow, Keras, OpenCV, etc), Javascript (Node JS, React JS, etc), c++ and PHP. I adore creating artificial intelligence systems alot and wants to make the everyday life of a human being more effective by making AI work side by side with us.</p>
+<p>I'm a student who is enthusiastic about making the world more developed, making innovations to raise individuals, and building a community of creative people. A few languages I enjoy working with include Python (Django, Tensorflow, Keras, OpenCV, etc), Javascript (Node JS, React JS, etc), c++, c and arduino . I adore creating artificial intelligence systems alot and want to make the everyday life of a human being more effective by making AI work side by side with us.</p>
 
 ## 😊 Profile
 Property                 | Data  
@@ -15,14 +15,25 @@ Side Projects - Web      | [![buoygo Badge](https://img.shields.io/badge/-Bouygo
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bsse23087&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&fire=FF8623"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=bsse23087&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&fire=FF8623"/>
 </p>
-
 <p align="center">
 <a href="https://github.com/bsse23087">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bsse23087&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsse23087&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## ⚙️&nbsp;Misc
+
+-👯 I’m looking to collaborate on any open source project.
+
+-📫 How to reach me: My github is here feel free to contact me here or any of social media platforms on my profile.
+
+-😄 Pronouns: He/him
+
+-⚡ Fun fact: I am a pro🥇table tennis player wanna have a match??
+
+
 
 
