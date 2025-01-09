@@ -15,7 +15,7 @@ Side Projects - Web      | [![buoygo Badge](https://img.shields.io/badge/-Bouygo
 ## ⚙️ &nbsp;GitHub Analytics
  
 <p align="center">
-  <a href="https://github.com/bsse23087">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=bsse23087&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&fire=FF8623">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bsse23087&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&fire=FF8623"/>
   </a>
 </p>
