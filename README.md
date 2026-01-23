@@ -15,8 +15,8 @@ Side Projects - Web      | [![buoygo Badge](https://img.shields.io/badge/-Bouygo
 ## ⚙️ &nbsp;GitHub Analytics
  
 <p align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=bsse23087&theme=algolia&hide_border=false)<br/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bsse23087&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&fire=FF8623"/>
+
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=bsse23087&theme=algolia&hide_border=false"/>
   </a>
 </p>
 <p align="center">
